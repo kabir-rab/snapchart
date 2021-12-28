@@ -13,6 +13,16 @@ p {
     margin: 1.5rem;
 }
 
+p a:link,
+a:active,
+a:visited {
+    color: #5D99B6;
+}
+
+p a:hover {
+    color: rgb(249, 201, 34);
+}
+
 .color-err-msg {
     background-color: #2d333b !important;
     font-family: 'Courier New', Courier, monospace;
