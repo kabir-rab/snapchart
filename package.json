@@ -1,17 +1,17 @@
 {
-  "name": "image-to-chart",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "kabir rab",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.2"
-  }
+    "name": "image-to-chart",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "kabir rab",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.2"
+    }
 }
